@@ -1,0 +1,50 @@
+[
+  {
+    "id": "e0c7a523-9588-4c07-96a1-f7614dcb3001",
+    "title": "Implement Dijkstra's Algorithm in C++",
+    "subject": "Data Structures & Algorithms",
+    "dueDate": "2026-10-19",
+    "estimatedMinutes": 60,
+    "priority": "high",
+    "status": "todo",
+    "createdAt": "2026-10-18T10:00:00.000Z",
+    "updatedAt": "2026-10-18T10:00:00.000Z",
+    "completedAt": null
+  },
+  {
+    "id": "e0c7a523-9588-4c07-96a1-f7614dcb3002",
+    "title": "Review OS Chapter 5: CPU Scheduling & Synchronization",
+    "subject": "Operating Systems",
+    "dueDate": "2026-10-21",
+    "estimatedMinutes": 90,
+    "priority": "medium",
+    "status": "todo",
+    "createdAt": "2026-10-18T10:00:00.000Z",
+    "updatedAt": "2026-10-18T10:00:00.000Z",
+    "completedAt": null
+  },
+  {
+    "id": "e0c7a523-9588-4c07-96a1-f7614dcb3003",
+    "title": "Solve BCNF & 3NF Normalization Practice Problems",
+    "subject": "Database Management Systems",
+    "dueDate": "2026-10-23",
+    "estimatedMinutes": 45,
+    "priority": "high",
+    "status": "todo",
+    "createdAt": "2026-10-18T10:00:00.000Z",
+    "updatedAt": "2026-10-18T10:00:00.000Z",
+    "completedAt": null
+  },
+  {
+    "id": "e0c7a523-9588-4c07-96a1-f7614dcb3004",
+    "title": "Draft StudyPilot Voice Interaction Architecture for Alexa+",
+    "subject": "Hackathon 2026",
+    "dueDate": "2026-10-25",
+    "estimatedMinutes": 120,
+    "priority": "medium",
+    "status": "completed",
+    "createdAt": "2026-10-17T09:00:00.000Z",
+    "updatedAt": "2026-10-18T08:30:00.000Z",
+    "completedAt": "2026-10-18T08:30:00.000Z"
+  }
+]

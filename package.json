@@ -1,0 +1,17 @@
+{
+  "name": "studypilot",
+  "version": "0.1.0",
+  "private": true,
+  "description": "StudyPilot - AI study companion web app for Amazon Developer Hackathon 2026 (Alexa+ track)",
+  "scripts": {
+    "start": "concurrently -n \"BACKEND,FRONTEND\" -c \"blue,green\" \"npm --prefix backend start\" \"npm --prefix frontend dev\"",
+    "dev": "concurrently -n \"BACKEND,FRONTEND\" -c \"blue,green\" \"npm --prefix backend dev\" \"npm --prefix frontend dev\"",
+    "backend": "npm --prefix backend start",
+    "backend:dev": "npm --prefix backend dev",
+    "frontend": "npm --prefix frontend dev",
+    "install:all": "npm install && npm --prefix backend install && npm --prefix frontend install"
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.2"
+  }
+}
